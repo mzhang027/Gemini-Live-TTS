@@ -1,5 +1,8 @@
+
 {
   "name": "Gemini Live TTS",
   "description": "A high-performance real-time Text-to-Speech tool powered by Gemini Live API.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
